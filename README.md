@@ -4,5 +4,7 @@ Watch the below Video to Learn How to Create an Active Navigation Link on Scroll
 <br/>
 <br/>
 🔗 [Youtube Video](https://youtu.be/SX9hH_YvNBE "Youtube Video")
+<br/>
 
-![Thumbnail](https://github.com/user-attachments/assets/fca03f52-938a-439c-9ec0-f1d88f2a6d62)
+<img width="1280" alt="Thumbnail" src="https://github.com/user-attachments/assets/3de38ea7-fc00-41e5-9e7b-3f68c23066e1" />
+
